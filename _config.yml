@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ben Guo
+# tagline:          'The Jekyll Butler'
+# description:      'Base theme for Jekyll themes by @mdo.'
+# url:              http://getpoole.com
+
+author:
+  name:           'Ben Guo'
+  url:            https://twitter.com/benzguo
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/benzguo/benzguo.github.io
+
+pages_list:
+  About: '/about'
+  Projects: '/projects'
+  Music: '/music'

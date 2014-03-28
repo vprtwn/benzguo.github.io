@@ -5,14 +5,15 @@ date:   2014-03-23 04:27:00
 categories: videogames sound pedals music
 ---
 
-Proteus is an open world exploration game with procedurally generated environments and environment-generated music. Last January, I recorded a Proteus session with the audio routed through a series of effects pedals. I rediscovered the video today, and realized the experience is not unlike Radiohead's recent collaboration with Universal Everything, [Polyfauna](http://www.universaleverything.com/projects/polyfauna/).
+Proteus is an open world exploration game with procedurally generated environments and environment-generated music. Last January, I recorded a Proteus session with the audio routed through a series of effects pedals. I rediscovered the video today, and realized the experience is not unlike [Polyfauna](http://www.universaleverything.com/projects/polyfauna/).
 
 ### Polyfauna
 <iframe src="//player.vimeo.com/video/84117075" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Distorted Proteus
 <iframe src="//player.vimeo.com/video/58521012" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-.
+
+<br>
 
 If you want to get your shoegame on with Proteus, this was my effects chain:
 

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a software engineer at [Venmo](https://venmo.com/), where I primarily work on the [iOS app](https://itunes.apple.com/us/app/venmo/id351727428?mt=8). I also make [music](/music) and [stuff](/projects).
+I'm a software engineer at [Venmo](https://venmo.com/) in NYC, where I primarily work on the [iOS app](https://itunes.apple.com/us/app/venmo/id351727428?mt=8). I also make [music](/music) and [stuff](/projects).
 
 [github.com/benzguo](https://github.com/benzguo)
 

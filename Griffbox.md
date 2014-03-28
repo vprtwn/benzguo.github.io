@@ -3,11 +3,11 @@ layout: page
 title: Griffbox
 ---
 
-Griffbox was inspired by the [chromatic button accordion](http://en.wikipedia.org/wiki/Chromatic_button_accordion)'s compact keyboard layout. The same mapping works surprisingly well on the computer keyboard, and gives the keyboardist a far greater range than standard mappings that imitate piano keyboards. A chromatic button-style mapping allows 32 contiguous notes, while a standard piano-style mapping allows only 19. Mapping computer keyboard keys to musical notes also creates a unique environment for exploring language generated melodies.
+Griffbox was inspired by the [chromatic button accordion](http://en.wikipedia.org/wiki/Chromatic_button_accordion)'s compact keyboard layout. The same mapping works surprisingly well on the computer keyboard, and gives the keyboardist a far greater range than standard mappings that imitate piano keyboards. A chromatic button-style mapping can fit 32 contiguous notes, while a standard piano-style mapping allows only 19. Mapping computer keyboard keys to musical notes also creates a unique environment for exploring language generated melodies.
 
-This was one of my first personal programming projects (early 2011), built in C++ with [JUCE](http://www.juce.com/about-juce). You can download the original binary [here](), or check out [bayan](https://benzguo.github.io/bayan), an open source online reincarnation.
+This was one of my first personal programming projects (early 2011), built in C++ with [JUCE](http://www.juce.com/about-juce). You can download the original binary [here](/assets/griffbox.zip), or check out [bayan](https://benzguo.github.io/bayan), an [open source](https://github.com/benzguo/bayan) online reincarnation.
 
-I wrote a piece for Griffbox in 2012, setting text from a theme written by Gertrude Stein for her sophomore composition course at Radcliffe. "In a Psychological Laboratory" (December 19, 1984) is a chilling depiction of early psychophysics research, and appears to describe an early polygraph.
+I wrote a piece for Griffbox in 2012, setting text from a theme written by Gertrude Stein for her sophomore composition course at Radcliffe. "In a Psychological Laboratory" (December 19, 1984) is a chilling depiction of her experience as a volunteer in an early psychophysics experiment.
 
 > Next she finds herself with a complicated apparatus strapped across her breast to register her breathing, her finger imprisoned in a steel machine and her arm thrust immovably into a big glass tube. She is a surrounded by a group of earnest youths who carefully watch the silent record of the automatic pen on the slowly revolving drum.
 >
@@ -15,4 +15,4 @@ I wrote a piece for Griffbox in 2012, setting text from a theme written by Gertr
 
 ### Polygraph (2012)
 
-<iframe src="//player.vimeo.com/video/39029595" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/39029595">Polygraph</a> from <a href="http://vimeo.com/user10968163">Ben Guo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/39029595" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

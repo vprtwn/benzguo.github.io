@@ -3,16 +3,6 @@ layout: page
 title: nyla
 ---
 
-### epilogue
-
-```
-░ ░ ░ 
-░ ░ ░ 
-░ ░ ░
-```
-
-
-
 ### invocation
 
 ```

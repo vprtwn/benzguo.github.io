@@ -3,10 +3,10 @@ layout: page
 title: Music
 ---
 
-![synth](/assets/synthtagram.jpg)
-
 I play synthesizers.
 
 [Home recordings](https://screwpine.bandcamp.com/music)
 
-![synth rig](/assets/synth-rig.jpg)
+![synth](/assets/synthtagram.jpg =50x)
+
+![synth rig](/assets/synth-rig.jpg = 50x)

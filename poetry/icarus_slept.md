@@ -14,9 +14,15 @@ softer than water after splashing
 	she stands and calls my name but I 
 	am already } here
 
-where forty nine simultaneous horses bisect connecticut in a polyester midnight compiled from internet research and an out of print japanese magazine article
+where forty nine simultaneous horses 
+bisect connecticut in a polyester mi
+dnight compiled from internet resear
+ch and an out of print japanese maga
+zine article
 
-where whispering egg whites speak in waxy stolen lullabies lifted from candles softer than lilac blossoms
+where whispering egg whites speak in stolen 
+lullabies lifted from candles 
+softer than lilac blossoms
 
 where children of the internet secretly fuck the internet
 faster than the american racing stripes strapped to the sunset }

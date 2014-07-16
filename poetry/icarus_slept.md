@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: icarus slept
 ---
 
 ### icarus slept

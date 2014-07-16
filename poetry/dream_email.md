@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: dream email
+---
 ### dream email
 ```
 you know what I'm talking about

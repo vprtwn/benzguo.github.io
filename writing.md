@@ -10,3 +10,5 @@ title: Writing
 [icarus slept](/poetry/icarus_slept)
 
 [dream email](/poetry/dream_email)
+
+[UTF-16](/poetry/UTF-16)

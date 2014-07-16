@@ -3,9 +3,16 @@ layout: page
 title: nyla
 ---
 
+### emulsion
+
 ```
-The universe is wider than our views of it.
-    —Henry David Thoreau, Walden (1854)
+remind me not to give away the ending
+but remember the briar and
+
+time would flee but we subdue it
+temporarily  
+   by the lake he said to her
+i love your voice is like milk and ice {
 ```
 
-[next](/poetry/NYLA/NYLA2)
+#[→](/poetry/NYLA/NYLA4)

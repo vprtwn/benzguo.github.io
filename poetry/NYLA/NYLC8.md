@@ -3,4 +3,4 @@ layout: page
 title: nyla
 ---
 
-![Neil Young Louis Armstrong](NYLA.png)
+![Neil Young Louis Armstrong](/assets/NYLA.png)

@@ -8,4 +8,4 @@ title: Writing
 
 ### Poetry
 [icarus slept](/poetry/icarus_slept)
-
+[dream email](/poetry/dream_email)

@@ -11,9 +11,8 @@ hit by enemy plasma bolt
 hotter than seven sputtering suns 
 
 your blinking chariot is still glorious 
-in the most somnolent shades of chrome
 still as a flagpole ringed with 
-seven fluttering shadows in the eternal dusk
+seven fluttering shadows in the long dusk
 
      remember this network sprouted 
      and not only connected spaces 
@@ -21,8 +20,7 @@ seven fluttering shadows in the eternal dusk
 
 somewhere a towering abacus clicks quietly 
 alone beneath the dim light of a crescent moon
-counting the logic of the luminous
-and the lovely uncanniness 
+counting the lovely uncanniness 
 of being duplicated
      
 inside a pressurized lunar data center 

@@ -34,12 +34,15 @@ that way i don't give anybody else my bad stuff
 I have a friend from staten island
 she went into the archives on saturday night
 and she said she saw the email doctors working
-so I asked her, did they look like the light beings on the website? 
+so I asked her
+did they look like the light beings on the website? 
 and she said 
-"yes they look like humans
-but they’ve got bright eyes and they’re very serene
-very peaceful. you get this peace and this unconditional love from them
-and they have these rays emanating from their heads"
+
+"yes they look like humans but they’ve got bright eyes 
+and they’re very serene, very peaceful. you get this peace 
+and this unconditional love from them and they have these 
+rays emanating from their heads"
+
 it's hard to describe, you’ve gotta look at it for yourself
 go to the website and look at the picture
 this fine artist went into the archives and she just drew what she saw

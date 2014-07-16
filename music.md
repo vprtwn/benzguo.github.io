@@ -7,5 +7,5 @@ I play synthesizers.
 
 [Home recordings](https://screwpine.bandcamp.com/music)
 
-<img src="/assets/synthtagram.jpg" style="width: 100px;"/>
-<img src="/assets/synth-rig.jpg" style="width: 100px;"/>
+![synth](/assets/synthtagram.jpg)
+![synth rig](/assets/synth-rig.jpg)

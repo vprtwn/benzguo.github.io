@@ -3,7 +3,7 @@ layout: page
 title: nyla
 ---
 
-### introduction
+### october 1
 ```
 your  rustling reflects       the forest your flashlight 
 flickers        on the river you look       up at the moon 

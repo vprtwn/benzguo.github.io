@@ -3,9 +3,9 @@ layout: page
 title: nyla
 ---
 
->reverse reincarnation is a retelling of life before the present eternal life. death was conquered soon after space, and as predicted, after the Interself multiplied our guilt until it filled our collective memory, the planets were quickly abandoned in shame. today, the only pursuit is to fill the branches of our history with retellings that branch outward in successive reincarnations but always return to merge with the present. many have been lost or forgotten in the depths of deep reincarnation, but some believe new heroes will emerge quietly from distant branches of the Interself.
+>reverse reincarnation is a retelling of life before the present eternal life. many have been lost or forgotten in the depths of deep reincarnation, but some believe new heroes will emerge quietly from the distant branches of the Interself.
 >
->—NYLA, Reflections on the Interself ()
+>—Henry David Thoreau
 
 
 #[→](/poetry/NYLA/NYLB5)

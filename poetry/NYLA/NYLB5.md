@@ -20,8 +20,7 @@ seven fluttering shadows in the long dusk
 
 somewhere a towering abacus clicks quietly 
 alone beneath the dim light of a crescent moon
-counting the lovely uncanniness 
-of being duplicated
+ah the lovely uncanniness of being duplicated
      
 inside a pressurized lunar data center 
 black servers blink frantically 

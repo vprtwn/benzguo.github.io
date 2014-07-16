@@ -45,7 +45,8 @@ rays emanating from their heads"
 
 it's hard to describe, you’ve gotta look at it for yourself
 go to the website and look at the picture
-this fine artist went into the archives and she just drew what she saw
+this fine artist went into the archives 
+and she just drew what she saw
 
 how do you pay, paypal? 
 yeah, or you pay him in cash if he comes to the expo

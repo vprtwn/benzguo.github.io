@@ -3,7 +3,7 @@ layout: page
 title: nyla
 ---
 
-### reflection I
+### reflection 1
 ```
 and reflected from above the lake there is a river 
 inside an ocean of feathers and wax 
@@ -31,4 +31,4 @@ bleached with the spiritual exhaustion of
 
 ```
 
-#[→](/poetry/NYLA/NYLB3)
+#[→](/poetry/NYLA/NYLB4)

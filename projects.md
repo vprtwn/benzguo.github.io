@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 ---
+[Glitch Text](https://itunes.apple.com/us/app/glitch-text-tsu/id886059225?mt=8) – Unicode text art app. (2014)
 
 [bayan](https://benzguo.github.com/bayan) - A chromatic button accordion for the web + your keyboard. (2014)
 

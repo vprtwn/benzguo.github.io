@@ -6,7 +6,7 @@ title: Projects
 
 [bayan](https://benzguo.github.com/bayan) - A chromatic button accordion for the web + your keyboard. (2014)
 
-[keytar](/keytar) - A better way to type while standing. (2014)
+[keytar](projects/keytar) - A better way to type while standing. (2014)
 
 [BZGFormViewController](https://github.com/benzguo/BZGFormViewController) - iOS framework for making dynamic forms. (2013)
 

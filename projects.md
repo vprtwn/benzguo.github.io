@@ -12,8 +12,8 @@ title: Projects
 
 [BZGFormField](https://github.com/benzguo/BZGFormField) - Compact text field validation UX for iOS. (2013)
 
-[RasterCam](/RasterCam) - Live rasterizing camera filter app. (2012)
+[RasterCam](/projects/RasterCam) - Live rasterizing camera filter app. (2012)
 
-[VowelSynth](/VowelSynth) - Formant filter vowel synthesizer app. (2011)
+[VowelSynth](/projects/VowelSynth) - Formant filter vowel synthesizer app. (2011)
 
-[Griffbox](/Griffbox) - Predecessor to [bayan](https://benzguo.github.com/bayan) (2011)
+[Griffbox](/projects/Griffbox) - Predecessor to [bayan](https://benzguo.github.com/bayan) (2011)

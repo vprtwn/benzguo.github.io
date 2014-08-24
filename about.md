@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a musician, artist, and software engineer.
+I am a musician, software engineer, artist, sometimes poet
 
 Currently working at [Project Florida](http://projectfla.com/), previously at [Venmo](https://venmo.com/). 
 

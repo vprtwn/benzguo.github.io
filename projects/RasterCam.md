@@ -3,7 +3,7 @@ layout: page
 title: RasterCam
 ---
 
-RasterCam is a camera app with live rasterization filters.
+RasterCam is a camera app with some live rasterization filters.
 
 [App Store](https://itunes.apple.com/us/app/rastercam/id586541103?mt=8&uo=4)
 

@@ -1,5 +1,5 @@
 ---
 layout: page
-title: keytar
+title: Keybar
 ---
 

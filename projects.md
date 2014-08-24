@@ -10,7 +10,7 @@ title: Projects
 
 [Keybar](/projects/keybar) - A keyboard/trackpad accessory for typing while standing. (2014)
 
-[RasterCam](/projects/RasterCam) - Live rasterizing camera filter app. (2012)
+[RasterCam](/projects/RasterCam) - Camera app with rasterization filters. (2012)
 
 [VowelSynth](/projects/VowelSynth) - Formant filter vowel synthesizer app. (2011)
 

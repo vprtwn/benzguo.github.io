@@ -5,7 +5,7 @@ title: Griffbox
 
 Griffbox was inspired by the [chromatic button accordion](http://en.wikipedia.org/wiki/Chromatic_button_accordion)'s compact keyboard layout. The same mapping works surprisingly well on the computer keyboard, and gives the keyboardist a far greater range than standard mappings that imitate piano keyboards. A chromatic button-style mapping can fit 32 contiguous notes, while a standard piano-style mapping allows only 19. Mapping computer keyboard keys to musical notes also creates a unique environment for exploring language generated melodies.
 
-This was one of my first personal programming projects (early 2011), built in C++ with [JUCE](http://www.juce.com/about-juce). You can download the original binary [here](/assets/griffbox.zip), or check out [bayan](https://benzguo.github.io/bayan), an [open source](https://github.com/benzguo/bayan) online reincarnation.
+This was one of my first personal programming projects (early 2011), built in C++ with [JUCE](http://www.juce.com/about-juce). You can download the original binary [here](/assets/griffbox.zip), or check out [bayan](https://benzguo.github.io/bayan), an [open source](https://github.com/benzguo/bayan) javascript reincarnation.
 
 I wrote a piece for Griffbox in 2012, setting text from a theme written by Gertrude Stein for her sophomore composition course at Radcliffe. "In a Psychological Laboratory" (December 19, 1984) is a chilling depiction of her experience as a volunteer in an early psychophysics experiment.
 

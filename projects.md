@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-[Taptone](https://taptone.me) - Music messaging app. (2014)
+[Taptone](http://taptone.me) - Music messaging app. (2014)
 
 [Glitch Text](https://itunes.apple.com/us/app/glitch-text-tsu/id886059225?mt=8) – Unicode text art app. (2014)
 

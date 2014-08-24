@@ -8,7 +8,7 @@ title: Projects
 
 [bayan](https://benzguo.github.com/bayan) - A chromatic button accordion for the web + your keyboard. (2014)
 
-[keytar](/projects/keytar) - A keyboard/trackpad accessory for typing while standing. (2014)
+[Keybar](/projects/keybar) - A keyboard/trackpad accessory for typing while standing. (2014)
 
 [RasterCam](/projects/RasterCam) - Live rasterizing camera filter app. (2012)
 

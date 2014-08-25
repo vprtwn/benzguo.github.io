@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-[Demosthenes](/projects/Demosthenes) – Music video [demoscenes](http://en.wikipedia.org/wiki/Demoscene). (2014)
+[Demosthenes](/projects/Demosthenes) – Music videos with code. (In progress)
 
 [Taptone](http://taptone.me) - Music messaging app. (2014)
 

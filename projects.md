@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-[Demosthenes](/projects/Demosthenes) – Music videos with code. (In progress)
+[Demosthenes](/projects/Demosthenes) – Video art framework. (In progress)
 
 [Taptone](http://taptone.me) - Music messaging app. (2014)
 

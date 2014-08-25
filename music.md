@@ -3,7 +3,9 @@ layout: page
 title: Music
 ---
 
-I play synthesizers.
+I play synths in [Scherzo](http://scherzobk.bandcamp.com/). 
+
+##### Home recordings
 
 [with words](https://sadthegreat.bandcamp.com/music)
 

@@ -5,7 +5,7 @@ title: Demosthenes
 
 Demosthenes is my foray into video art via [demoscene](http://en.wikipedia.org/wiki/Demoscene). 
 
-[The source](https://github.com/benzguo/demosthenes) is a protean framework for creating music videos in code.
+[The source](https://github.com/benzguo/demosthenes) is a protean framework for creating video art with code.
 
 Made with Demosthenes:
 

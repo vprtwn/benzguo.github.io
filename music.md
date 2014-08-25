@@ -5,7 +5,7 @@ title: Music
 
 I play synthesizers.
 
-[Songs](https://screwpine.bandcamp.com/music)
+[Songs](https://sadthegreat.bandcamp.com/music)
 
 [Experiments](https://soundcloud.com/benguo)
 

@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-I am a musician, software engineer, artist, sometimes poet
+I am a musician, software engineer and artist.
 
 Currently working at [Project Florida](http://projectfla.com/), previously at [Venmo](https://venmo.com/). 
 
-Currently playing in [Scherzo](http://scherzobk.bandcamp.com/).
+Currently part of [Scherzo](http://scherzobk.bandcamp.com/) and [Lucian](http://ilovelucian.com)
 
 [twitter.com/benzguo](https://twitter.com/benzguo)
 

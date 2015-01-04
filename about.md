@@ -9,7 +9,7 @@ Work: [Project Florida](http://projectfla.com/), previously at [Venmo](https://v
 
 Music: [Scherzo](http://scherzobk.bandcamp.com/), [Lucian](http://ilovelucian.com)
 
-Links: [Twitter](https://twitter.com/benzguo), [Github](https://github.com/benzguo), [LinkedIn](http://www.linkedin.com/in/benzguo)
+Profiles: [Twitter](https://twitter.com/benzguo), [Github](https://github.com/benzguo), [LinkedIn](http://www.linkedin.com/in/benzguo)
 
 
 

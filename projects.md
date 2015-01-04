@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-[Demosthenes](/projects/Demosthenes) – Video art framework. (In progress)
+[MusicKit](https://github.com/benzguo/MusicKit) – Swift music framework. (2015/ongoing)
 
 [Taptone](http://taptone.me) - Music messaging app. (2014)
 

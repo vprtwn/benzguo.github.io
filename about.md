@@ -5,11 +5,11 @@ title: About
 
 I am a musician, software engineer and artist.
 
+Music: [Lucian](http://ilovelucian.com), [Scherzo](http://scherzobk.bandcamp.com/), [Sad the Great](http://sadthegreat.bandcamp.com).
+
 Work: [Project Florida](http://projectfla.com/), previously at [Venmo](https://venmo.com/). 
 
-Music: [Scherzo](http://scherzobk.bandcamp.com/), [Lucian](http://ilovelucian.com)
-
-Profiles: [Twitter](https://twitter.com/benzguo), [Github](https://github.com/benzguo), [LinkedIn](http://www.linkedin.com/in/benzguo)
+Elsewhere: [Twitter](https://twitter.com/benzguo), [Github](https://github.com/benzguo), [LinkedIn](http://www.linkedin.com/in/benzguo)
 
 
 

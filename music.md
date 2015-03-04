@@ -3,11 +3,11 @@ layout: page
 title: Music
 ---
 
-[Lucian](http://llucian.com)
+### Electronic
+[Net Sadness](http://netsadness.net)
 
+### Synth pop duo
 [Scherzo](http://scherzobk.bandcamp.com/)
 
+### Old demos
 [Sad the Great](https://sadthegreat.bandcamp.com/music)
-
-![synth](/assets/synth-rig.jpg)
-

@@ -3,18 +3,14 @@ layout: page
 title: Projects
 ---
 
-[MusicKit](https://github.com/benzguo/MusicKit) – Swift music framework. (2015/ongoing)
+[MusicKit](https://github.com/benzguo/MusicKit) – A framework for representing and transforming music in Swift. (2015/ongoing)
 
-[Taptone](http://taptone.me) - Music messaging app. (2014)
-
-[Glitch Text](https://itunes.apple.com/us/app/glitch-text-tsu/id886059225?mt=8) – Unicode text art app. (2014)
+[Taptone](http://taptone.me) - A prototype app demonstrating melodic communication on the iPhone using a library of notification tones. (2014)
 
 [bayan](https://benzguo.github.com/bayan) - A chromatic button accordion for the web + your keyboard. (2014)
 
-[Keybar](/projects/Keybar) - A keyboard/trackpad accessory for typing while standing. (2014)
+[keyboardboard](/projects/keyboardboard) - A keytar-inspired keyboard/trackpad accessory for computing while standing. (2014)
 
-[RasterCam](/projects/RasterCam) - Camera app with rasterization filters. (2012)
-
-[VowelSynth](/projects/VowelSynth) - Formant filter vowel synthesizer app. (2011)
+[VowelSynth](/projects/VowelSynth) - A two axis formant filter vowel synthesizer with accelerometer-controlled F0. (2011)
 
 [Griffbox](/projects/Griffbox) - Predecessor to [bayan](https://benzguo.github.com/bayan) (2011)

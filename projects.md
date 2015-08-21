@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-[MusicKit](https://github.com/benzguo/MusicKit) – A framework for representing and transforming music in Swift. (2015/ongoing)
+[MusicKit](https://github.com/benzguo/MusicKit) – A framework for representing and transforming music in Swift. (2015, ongoing)
 
-[Taptone](http://taptone.me) - A prototype app demonstrating melodic communication on the iPhone using a library of notification tones. (2014)
+[Taptone](http://taptone.me) - A prototype app demonstrating melodic communication on the iPhone using 25 notification tones. (2014)
 
 [bayan](https://benzguo.github.com/bayan) - A chromatic button accordion for the web + your keyboard. (2014)
 

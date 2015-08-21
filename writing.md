@@ -11,3 +11,5 @@ title: Writing
 [UTF-16](/poetry/UTF-16)
 
 [Neil Young Louis Armstrong](/poetry/NYLA/NYLA1)
+
+[after Rev. Akegarasu](/poetry/akegarasu)

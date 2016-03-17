@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 pygments:         true
 
 # Permalinks
@@ -13,7 +12,7 @@ title:            Ben Guo
 
 author:
   name:           'Ben Guo'
-  url:            https://twitter.com/benzguo
+  url:            https://twitter.com/othernet_
 
 paginate:         1
 
